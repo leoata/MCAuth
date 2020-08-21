@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8577726-08d2-407b-a7fa-ff907947dd33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/.idea.FacialRecognition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FacialRecognition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/AuthAttempt.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/ButtonTheme.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/FacialRecognition.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/TextBoxTheme.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/Util.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/fonts/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/img/faceid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FacialRecognition/packages.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/bc/1d1a7646/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D051BDA-659E-4027-9139-AED9288496F0/e9/2387ea01/JsonConverter`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/Util.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/AuthAttempt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/ButtonTheme.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FacialRecognition/TextBoxTheme.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B52CA2E3-2B8F-4AA8-B5E6-76BFDB1D2542/ec/b7e78960/FontFamily.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FacialRecognition/App.xaml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/TextBoxTheme.xaml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/FacialRecognition.csproj" />
+        <option value="$PROJECT_DIR$/FacialRecognition/ButtonTheme.xaml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/FacialRecognition.cs" />
+        <option value="$PROJECT_DIR$/FacialRecognition/haarcascade_frontface_alt.xml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/haarcascade_profileface.xml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/haarcascade_frontalface_default.xml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/Util.cs" />
+        <option value="$PROJECT_DIR$/FacialRecognition/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/FacialRecognition/MainWindow.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g6ScGLLBIodZXzXVavcOv1cnKy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FacialRecognition" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FacialRecognition/FacialRecognition.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8577726-08d2-407b-a7fa-ff907947dd33" name="Default Changelist" comment="" />
+      <created>1597433627486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597433627486</updated>
+      <workItem from="1597433650398" duration="3291000" />
+      <workItem from="1597437930212" duration="5257000" />
+      <workItem from="1597463209108" duration="1517000" />
+      <workItem from="1597638223020" duration="995000" />
+      <workItem from="1597639446103" duration="331000" />
+      <workItem from="1597712810143" duration="995000" />
+      <workItem from="1597801623579" duration="497000" />
+      <workItem from="1597897298440" duration="1577000" />
+      <workItem from="1597899269594" duration="595000" />
+      <workItem from="1597967837982" duration="464000" />
+      <workItem from="1597968322288" duration="438000" />
+      <workItem from="1597968778990" duration="42000" />
+      <workItem from="1597968896528" duration="2514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1597971411161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597971411161" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1597971411161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597971411161" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1597971411161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597971411161" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1597971411161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597971411161" />
+    <state x="552" y="256" key="Rider.ProjectTemplateDialog.Size" timestamp="1597712836111">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="256" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597712836111" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1597463716063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597463716063" />
+    <state x="638" y="124" width="644" height="801" key="find.popup" timestamp="1597438010325">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="638" y="124" width="644" height="801" key="find.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1597438010325" />
+  </component>
+</project>
