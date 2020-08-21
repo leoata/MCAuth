@@ -1,7 +1,0 @@
-name: MCAuth
-version: 1.0
-author: sokiii
-main: me.leoata.MCAuthPlugin
-permissions:
-  mcauth.require:
-    default: op
