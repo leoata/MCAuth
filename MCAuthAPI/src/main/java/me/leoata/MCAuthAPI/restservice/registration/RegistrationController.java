@@ -33,7 +33,7 @@ public class RegistrationController implements IController {
         return new RegisteredUser(user);
     }
 
-    @PostMapping("/register_server")
+    /*@PostMapping("/register_server")
     public Server registerServer(@RequestBody ServerRegisterAttempt attempt){
         if (attempt.getKey() == null || attempt.getName() == null || attempt.getMasterKey() == null)
             throw new MalformedAttemptException();
@@ -57,7 +57,7 @@ public class RegistrationController implements IController {
             throw new ServerDoesNotExistException();
         McAuthApiApplication.getInstance().getAuthenticator().getStorage().deleteServer(server);
         return server;
-    }
+    }*/
 
     @DeleteMapping("/delete_user")
     public User deleteUser(@RequestBody UserRegisterAttempt attempt){
