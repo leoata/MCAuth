@@ -19,6 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class RegistrationController implements IController {
 
+    private static final String masterKey = "";
+
     @PostMapping("/register_user")
     public RegisteredUser registerUser(@RequestBody UserRegisterAttempt attempt){
         if (attempt.getKey() == null || attempt.getName() == null || attempt.getUuid() == null || attempt.getIp() == null)
@@ -33,11 +35,11 @@ public class RegistrationController implements IController {
         return new RegisteredUser(user);
     }
 
-    /*@PostMapping("/register_server")
+    @PostMapping("/register_server")
     public Server registerServer(@RequestBody ServerRegisterAttempt attempt){
         if (attempt.getKey() == null || attempt.getName() == null || attempt.getMasterKey() == null)
             throw new MalformedAttemptException();
-        if (!attempt.getMasterKey().equals("vZghcwrMhF54Bx75cXr6BY79HdcpVKsybC7B4Wt77K3K6KAEAMSNrTdaBgs7"))
+        if (!attempt.getMasterKey().equals(masterKey))
             throw new ForbiddenRequestException();
         if (McAuthApiApplication.getInstance().getAuthenticator().getStorage().getUser(attempt.getName()) != null)
             throw new ServerAlreadyExistsException();
@@ -50,14 +52,14 @@ public class RegistrationController implements IController {
     public Server deleteServer(@RequestBody ServerRegisterAttempt attempt){
         if (attempt.getKey() == null || attempt.getName() == null || attempt.getMasterKey() == null)
             throw new MalformedAttemptException();
-        if (!attempt.getMasterKey().equals("vZghcwrMhF54Bx75cXr6BY79HdcpVKsybC7B4Wt77K3K6KAEAMSNrTdaBgs7"))
+        if (!attempt.getMasterKey().equals(masterKey))
             throw new ForbiddenRequestException();
         Server server = new Server(attempt);
         if (McAuthApiApplication.getInstance().getAuthenticator().getStorage().getServer(attempt.getName()) == null)
             throw new ServerDoesNotExistException();
         McAuthApiApplication.getInstance().getAuthenticator().getStorage().deleteServer(server);
         return server;
-    }*/
+    }
 
     @DeleteMapping("/delete_user")
     public User deleteUser(@RequestBody UserRegisterAttempt attempt){
