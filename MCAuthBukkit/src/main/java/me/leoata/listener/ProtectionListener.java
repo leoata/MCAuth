@@ -65,7 +65,7 @@ public class ProtectionListener implements Listener {
                 String playerIP = event.getPlayer().getAddress().getAddress().getHostAddress();
                 if (user == null
                         || !playerIP.equals(user.getIp())
-                        || millisSinceLastLogin > TimeUnit.SECONDS.toMillis(30)) {
+                        || millisSinceLastLogin > TimeUnit.DAYS.toMillis(1)) {
                     freeze(player);
                 } else {
                     BukkitUtils.staffBroadcast(player.getName() + " has successfully authenticated with MCAuth.");
